@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Heroku](#heroku)
+- [Deployed Application](#heroku)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Preview](#preview)
