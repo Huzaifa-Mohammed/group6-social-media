@@ -1,4 +1,4 @@
-# Petbook - Socail Media For Pets
+# Petbook - Social Media For Pets
 
 ## Table of Contents
 
