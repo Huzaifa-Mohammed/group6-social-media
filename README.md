@@ -1,4 +1,4 @@
-# Petbook - Group 6 Project Two
+# Petbook - Socail Media For Pets
 
 ## Table of Contents
 
